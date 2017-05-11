@@ -2,7 +2,7 @@
 ASP.NET Core Lambda sample project. Created using AWS Toolkit for VS 2017
 
 
-## Setup
+### Setup
 
 in `aws-lambda-tools-defaults.json`
 
@@ -10,7 +10,7 @@ in `aws-lambda-tools-defaults.json`
 * Set `s3-bucket` to an existed s3 backet.
 
 
-## Deloy
+### Deloy
 
 `dotnet restore`
 `dotnet lambda deploy-serverless`
