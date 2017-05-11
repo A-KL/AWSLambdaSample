@@ -10,7 +10,7 @@ in `aws-lambda-tools-defaults.json`
 * Set `s3-bucket` to an existed s3 backet.
 
 
-### Deloy
+### Deploy
 
 `dotnet restore`
 `dotnet lambda deploy-serverless`
